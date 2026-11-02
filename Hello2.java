@@ -5,5 +5,6 @@ public class Hello2{
         System.out.println("ローカルで追加");
         System.out.println("リモートでさらに追加");
         //コメントを追加
+        System.out.println("プルリク用に追加");
     }
 }
