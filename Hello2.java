@@ -3,5 +3,6 @@ public class Hello2{
         System.out.println("クローン先で追加");
         System.out.println("リモートで追加");
         System.out.println("リモートでさらに追加");
+        //コメントを追加
     }
 }
